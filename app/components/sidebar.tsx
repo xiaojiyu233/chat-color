@@ -250,8 +250,6 @@ export function SideBar(props: { className?: string }) {
       {...props}
     >
         <SideBarHeader
-        title="NextChat"
-        subTitle=""
         title="DEV Chat"
         subTitle="DEV API 公益项目"
         logo={<ChatGptIcon />}
